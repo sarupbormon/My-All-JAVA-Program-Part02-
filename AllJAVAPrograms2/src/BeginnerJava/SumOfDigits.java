@@ -7,7 +7,7 @@ public class SumOfDigits {
 		
 		   int  sum = 0, r , temp, num;
 		   Scanner input = new Scanner(System.in); 
-		  System.out.println(Enetr any Number);
+		   System.out.println(Enetr any Number);
 		   num = input.nextInt();
 		   
 		   temp = num;
